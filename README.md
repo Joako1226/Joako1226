@@ -2,7 +2,7 @@
 Hi, I'm Joaquín Gutiérrez a full stack developer
 Currently living in spain
 I work as a freelance software designer programmer
-Currently studying an informatic technithian degree
+Currently studying an software development degree
 Languages ​​that I speak: English, Spanish, Catalan and Portuguese
 
 --------------------------------------------------------------------
