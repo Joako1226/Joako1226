@@ -10,5 +10,5 @@ Languages ​​that I speak: English, Spanish, Catalan and Portuguese
 Hola, soy Joaquín Gutiérrez un desarrollador full stack
 Estoy residiendo en españa
 Trabajo como freelance desarrollando software
-Actualmente cursando un grado de tecnico en informatica
+Actualmente cursando un grado de desarrollo de software
 Idiomas que hablo: inglés, español, catalán y portugués
